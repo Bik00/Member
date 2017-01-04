@@ -14,7 +14,7 @@
 	<a href="logout.do"><input type="button" value="로그아웃"></a>
 	<br>
 	<br>
-	<a href="delete.do"><input type="button" value="홰원 탈퇴" onclick="out()"></a>
+	<a href="delete.do"><input type="button" value="회원 탈퇴" onclick="out()"></a>
 	
 	
 	<script>
